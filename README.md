@@ -19,6 +19,7 @@ Use nested lists to append list.
 
 
 ## PROGRAM:
+```
 #Prethiveerajan P
 #21500340
 import numpy as np
@@ -34,7 +35,7 @@ print(l2)
 value1=np.array(l2)
 inverse=np.linalg.inv(value1)
 print(inverse)
-
+```
 ## OUTPUT:
 ![OUTPUT](pd.png)
 
